@@ -1,0 +1,4 @@
+Recipe Manager: 
+Develop a basic recipe manager where users can add, view, and search for recipes. 
+Focus on storing recipes in a text file or simple database and implementing basic 
+search functionality based on keywords.
